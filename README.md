@@ -1,14 +1,5 @@
 Quotes Game
 ===========
-Project source can be downloaded from https://github.com/dents0/QuotesGame.git
-----
-
-Author
-------
-Deniss Tsokarev
-
-Description
------------
 A game of guessing who said a given quote. All quotes are parsed from http://quotes.toscrape.com/ and saved in a CSV file.
 
 The game starts after running **quotes_game.py**. Users have 4 attempts to guess an author of a quote correctly. Once the guess is correct or there is no attempts left, users will be offered to play again.
